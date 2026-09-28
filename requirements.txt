@@ -1,0 +1,11 @@
+torch
+transformers
+peft
+python-terrier
+pandas
+numpy
+tqdm
+evaluate
+rouge_score
+matplotlib
+scikit-learn
